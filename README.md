@@ -59,24 +59,20 @@ Created symlink /etc/systemd/system/multi-user.target.wants/x-ui.service → /et
 x-ui v2.8.5 installation finished, it is running now...
 
 
-┌───────────────────────────────────────────────────────┐
-│  x-ui control menu usages (subcommands):              │
-│                                                       │
-│  x-ui              - Admin Management Script          │
-│  x-ui start        - Start                            │
-│  x-ui stop         - Stop                             │
-│  x-ui restart      - Restart                          │
-│  x-ui status       - Current Status                   │
-│  x-ui settings     - Current Settings                 │
-│  x-ui enable       - Enable Autostart on OS Startup   │
-│  x-ui disable      - Disable Autostart on OS Startup  │
-│  x-ui log          - Check logs                       │
-│  x-ui banlog       - Check Fail2ban ban logs          │
-│  x-ui update       - Update                           │
-│  x-ui legacy       - Legacy version                   │
-│  x-ui install      - Install                          │
-│  x-ui uninstall    - Uninstall                        │
-└───────────────────────────────────────────────────────┘
+x-ui - Admin Management Script
+x-ui start - Start
+x-ui stop - Stop
+x-ui restart - Restart
+x-ui status - Current Status
+x-ui settings - Current Settings
+x-ui enable - Enable Autostart on OS Startup
+x-ui disable - Disable Autostart on OS Startup
+x-ui log - Check logs
+x-ui banlog - Check Fail2ban ban logs
+x-ui update - Update
+x-ui legacy - Legacy version
+x-ui install - Install
+x-ui uninstall - Uninstall
 
 ## 因为x-ui 3的特殊情况，你只能通过本机ssh连接访问
 1. 首先windos电脑和mac电脑执行连接方法不一样如下：
