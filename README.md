@@ -1,4 +1,4 @@
-# 3x-ui-Reality-build
+# 3x-ui-reality-build
 搭建并且确保支持 Reality 协议
 
 执行命令
