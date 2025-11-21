@@ -93,4 +93,28 @@ x-ui v2.8.5 installation finished, it is running now...
 
 
 
+## 打开页面之后进行配置
+1. 选择左侧入站列表 -> 添加入站
+2. 输入vless协议
+3. 监听不用输入，默认对外开放
+4. 端口可以随机生成无所谓
+5. 总流量自己设置
+6. 设备限制无所谓，到期时间自己看，可以不设置
+7. 打开客户/用户，启用，输入电子邮件，或者自动生成电子邮件
+8. 然后随机ID，限速自己设置，评论自己设置无所谓不重要flow默认选择无
+9. 总流量根据自己用户进行分配
+10. 选择tcp协议
+11. Proxy Protocol关闭，HTTP伪装关闭，Sockopt关闭，External Proxy关闭
+12. 选择Reality协议，打开Show，Xver默认0，uTLS选择chrome
+13. Target选择伪装的节点，确保你的地址大陆可以访问的外网节点，默认可以使用443，如下：abc.abc.abc:443
+14. 然后SNI和上面一样，但是不用输入端口如下:abc.abc.abc
+15. Max Time 默认0，Min Client Ver和Max Client Ver均为空
+16. Short IDs 清空
+17. SpiderX 选择 /
+18. 点击获取随机证书，生成公钥和密钥。
+19. 然后点保存，之后点击感叹号获取vless链接地址
+20. 开心使用吧
+
+
+
 
