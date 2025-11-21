@@ -112,7 +112,7 @@ x-ui v2.8.5 installation finished, it is running now...
 16. Short IDs 清空
 17. SpiderX 选择 /
 18. 点击获取随机证书，生成公钥和密钥。
-19. 然后点保存，之后点击感叹号获取vless链接地址
+19. 然后点保存，之后点击感叹号获取vless链接地址，引入之后修改ip地址即可
 20. 开心使用吧
 
 
