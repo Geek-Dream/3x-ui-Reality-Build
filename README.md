@@ -25,22 +25,39 @@ bash <(curl -Ls https://raw.githubusercontent.com/gm-cx/3x-ui-cn/master/install.
 ## 执行命令好之后选择n，运行结果如下
 
 Would you like to customize the Panel Port settings? (If not, a random port will be applied) [y/n]: n
-Generated random port: 43233
-Port set successfully: 43233
+
+Generated random port: xxxxx
+
+Port set successfully: xxxxx
+
 Username and password updated successfully
+
 Base URI path set successfully
+
 This is a fresh installation, generating random login info for security concerns:
+
 ###############################################
-Username: la0SvZXF5H
-Password: b16YjSPsi0
-Port: 43233
-WebBasePath: A7gltgeXBZWVvJD3bR
-Access URL: http://103.99.178.153:43233/A7gltgeXBZWVvJD3bR
+
+Username: xxxxx
+
+Password: xxxxx
+
+Port: xxxxx
+
+WebBasePath: xxxxx
+
+Access URL: http://111.11.111.111:1111/xxxxxxxxx
+
 ###############################################
+
 Start migrating database...
+
 Migration done!
+
 Created symlink /etc/systemd/system/multi-user.target.wants/x-ui.service → /etc/systemd/system/x-ui.service.
+
 x-ui v2.8.5 installation finished, it is running now...
+
 
 ┌───────────────────────────────────────────────────────┐
 │  x-ui control menu usages (subcommands):              │
