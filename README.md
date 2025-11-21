@@ -77,3 +77,20 @@ x-ui v2.8.5 installation finished, it is running now...
 │  x-ui install      - Install                          │
 │  x-ui uninstall    - Uninstall                        │
 └───────────────────────────────────────────────────────┘
+
+## 因为x-ui 3的特殊情况，你只能通过本机ssh连接访问
+1. 首先windos电脑和mac电脑执行连接方法不一样如下：
+2. 首先windos打开cmd并且管理员输入：ssh -L 15208:127.0.0.1:xxxx root@xxxx.xxxx.xxx.xx
+3. 然后输入VPS的密码登录
+4. 打开网页并且输入你的地址就是127.0.0.1:xxxxx
+
+1. 如果使用mac的话，直接使用终端
+2. 输入链接：ssh -L 15208:127.0.0.1:xxxx root@xxxx.xxxx.xxx.xx
+3. 然后如果第一次使用ssh那么使用yes
+4. 最后输入VPS的登录密码
+5. 打开网页并且输入你的地址就是127.0.0.1:xxxxx
+
+
+
+
+
