@@ -101,7 +101,7 @@ x-ui v2.8.5 installation finished, it is running now...
 5. 总流量自己设置
 6. 设备限制无所谓，到期时间自己看，可以不设置
 7. 打开客户/用户，启用，输入电子邮件，或者自动生成电子邮件
-8. 然后随机ID，限速自己设置，评论自己设置无所谓不重要flow默认选择无
+8. 然后随机ID，限速自己设置，评论自己设置无所谓不重要flow默认选择'xtls-rprx-vision'
 9. 总流量根据自己用户进行分配
 10. 选择tcp协议
 11. Proxy Protocol关闭，HTTP伪装关闭，Sockopt关闭，External Proxy关闭
